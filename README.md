@@ -7,10 +7,11 @@ To add a conference to the list, please [contribute](#contribute)!
 If you would like to be notified of future conferences that would be added to the list, you could watch this repo. New additions are made via PRs and have full description of the conference so that you can view it directly in your email. ([Example PR](https://github.com/nikhita/tech-conferences-india/pull/25))
 
 ## 2018
-
+i
 | Conference | Date | Venue | Description |
 |------------|------|-------|-------------|
 | [Hosting and Domain Conference India](http://www.hdcon.org/) | 3 Feb | Hyderabad | Hosting and Domain Conference is the World's Top initiative to discuss on latest happenings in the field of web technologies. Hosting, Domain, Blogging and Web technologies are major discussions. |
+| [PyCon Pune](https://pune.pycon.org/2018/) | 08-11 Feb | Pune | PyCon Pune is a conference which includes first two days conference(08 - 09) and then two days dev spirint (10 - 11) to contribute to upstream projects. |
 | [GopherCon India](http://www.gophercon.in/) | 09-10 Mar | Sheraton Grand, Sangamvadi, Pune | Go conference in India. Go is an open source project developed by a team at Google and many contributors from the open source community. |
 | [Great Indian Developer Summit](http://www.developermarch.com/developersummit/index.html) | 24-27 Apr | Bengaluru | 	With over 40000 attendees benefiting from ten game changing editions, GIDS is the gold standard for India's software professional ecosystem.
 
@@ -45,14 +46,15 @@ If you would like to be notified of future conferences that would be added to th
 | [DevOps++ Global Summit](https://www.townscript.com/e/devopsglobalsummitdoppa2017) | 9 Sept | Pune | It is a way to get the community together and experience the latest in DevOps and beyond. The ++ in DevOps++ is all about going beyond DevOps. |
 | [Fragments 2017](https://hasgeek.com/) | 12-13 Sept | Bengaluru | Fragments is a two-day conference on the mobile ecosystem in India. |
 | [CloudSec](https://www.cloudsec.com/in/) | 13 Sept | JW Marriott, Mumbai | It is a conference about IT Security Technologies, Policies and Compliance. |
-| [ReactFoo 2017](https://hasgeek.com/) | 14 Sept | Bengaluru | ReactFoo is a single-day React conference by HasGeek. | 
+| [ReactFoo 2017](https://hasgeek.com/) | 14 Sept | Bengaluru | ReactFoo is a single-day React conference by HasGeek. |
 | [DevOps Days India](https://devopsdaysindia.org/) | 15-16 Sept | Hotel Vivanta by Taj, MG Road, Bengaluru | DevOpsDays India is a global event complementing other DevOpsDays events across the world. |
 | [JSFoo](https://jsfoo.in/2017/) | 15-16 Sept | MLR Convention Centre, Bengaluru | JSFoo is India’s premier JavaScript conference, hosted by HasGeek. The broad theme this year is building reliable web apps.  |
 | [DevOps Summit](http://www.unicomlearning.com/2017/DevOps_Summit_Pune/) | 16 Sept | Pune | The conference brings together leading practitioner-organisations who have achieved Continuous Delivery and organisational transformation. |
-| [CYPHER 2017](http://www.analyticsindiasummit.com/about/) | 21-23 Sept | Hotel Park Plaza, Bengaluru | A platform to network and learn from the leading thought leaders, companies and startups in Analytics, Data Science and Artificial Intelligence discipline. | 
+| [CYPHER 2017](http://www.analyticsindiasummit.com/about/) | 21-23 Sept | Hotel Park Plaza, Bengaluru | A platform to network and learn from the leading thought leaders, companies and startups in Analytics, Data Science and Artificial Intelligence discipline. |
+| [PyConf Hyderabad](http://pyconf.hydpy.org/) | 07-08 Oct | IIIT Hyderabad, Hyderabad | First Python Conference in Hyderabad being conducted at IIIT Hyderbad. |
 | [Open Source India 2017](http://opensourceindia.in/osidays/) | 13-14 Oct | Bengaluru, NIMHANS Convention Center | Open Source India brings the open source community to one floor, to explore what’s new and exciting in open source languages, tools, and techniques. |
 | [PyCon India](https://in.pycon.org/2017/) | 2-5 Nov | Jawahar Lal Nehru University, New Delhi | The premier conference in India on using and developing the Python programming language. |
-| [DataHack Summit](https://www.analyticsvidhya.com/datahacksummit/) | 9-11 Nov | Bengaluru | DataHack Summit is an initiative by Analytics Vidhya to bring together the finest data scientists from across the country & globe. | 
+| [DataHack Summit](https://www.analyticsvidhya.com/datahacksummit/) | 9-11 Nov | Bengaluru | DataHack Summit is an initiative by Analytics Vidhya to bring together the finest data scientists from across the country & globe. |
 | [Grace Hopper Celebration India (GHCI)](https://ghcindia.anitaborg.org/) | 16-17 Nov |  Bengaluru International Exhibition Center (BIEC), Bengaluru | The Grace Hopper Celebration of Women in Computing (India) is India's largest gathering of women technologists. |
 | [try! swift](https://www.tryswift.co/events/2017/bangalore/) | 16-17 Nov | MLR Convention Centre, Bengaluru | try! Swift India is an amazing chance for developers in the Asian Pacific region to learn the latest world trends in iOS, tvOS, and watchOS development using the industry's best standards. |
 | [Functional Conf](https://functionalconf.com/) | 16-19 Nov | Bengaluru | Asia's Premier Functional Programming Conference, designed to bring the growing community of functional programmers together under one roof. |
@@ -78,12 +80,12 @@ If you would like to be notified of future conferences that would be added to th
 | [UX India](http://www.2016.ux-india.org/) | 20-22 Oct | Westin, Hyderabad | India’s biggest international conference on user experience design. |
 | [DevOps Days India](http://devopsdaysindia.org/) | 4-5 Nov | The Royal Orchind, Bengaluru | DevOpsDays India is a global event complementing other DevOpsDays events across the world. |
 | [droidconIN](https://droidcon.in/2016/) | 10-11 Nov | MLR Convention Centre, Bengaluru | It is the biggest android conference in the region and is the place to be if you are into android development, design or architecture. |
-| [OpenDayLight India Fourm](http://events.linuxfoundation.org/events/opendaylight-forum-india) | 16-17 Nov | Sheraton Grand Hotel Bengaluru, Bengaluru | The networking industry has come to fully emrbace open source SDN as the right path towards achieving innovation and interoperability in today's infrastructures. | 
+| [OpenDayLight India Fourm](http://events.linuxfoundation.org/events/opendaylight-forum-india) | 16-17 Nov | Sheraton Grand Hotel Bengaluru, Bengaluru | The networking industry has come to fully emrbace open source SDN as the right path towards achieving innovation and interoperability in today's infrastructures. |
 | [Grace Hopper Conference India](http://ghcindia.anitaborg.org/) | 7-9 Dec | Vivanta by Taj, Bengaluru | It is India's largest gathering of women technologists produced by the Anita Borg Institute and presented in partnership with ACM India. |
 
 # <a name="contribute"/>Contributing </a>
 
-If you know of an upcoming tech conference or if you find something wrong, please contribute! 
+If you know of an upcoming tech conference or if you find something wrong, please contribute!
 
 To contribute to the list, please send a PR. If you don't have time to send in a PR, no worries, just open an issue or email me at nikitaraghunath@gmail.com and I'll look into it.
 
